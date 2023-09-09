@@ -7,8 +7,15 @@ Mixed Messages is the first Codecademy portfolio project for the Fullstack Caree
 - Use the command line
 - Develop locally on your computer
 
-## Prerequisites
+### Prerequisites
 - Javascript
 - Node.js
 - Git and GitHub
 - Command Line
+
+### How to Use
+To use this simple script and start generating your random titles do the following:
+1. Ensure you have Node.js installed in your system
+2. Download the repo or clone the repo
+3. Open a terminal and navigate to the directory that contains the project files
+4. Run command `node generator.js` and enjoy!
