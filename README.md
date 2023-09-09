@@ -1,5 +1,5 @@
 # mixed-messages
-Mixed Messages is the first Codecademy portfolio project for the Fullstack Career Path Certification
+Mixed Messages is the first Codecademy portfolio project for the Fullstack Career Path Certification. For this particular program I decided to go with a funny random title generator. Be it for project names, music bands, company names, etc. so I hope it gets a good ol' guffaw out of you!
 
 ## Project Objectives
 - Build a message generator program using Javascript
@@ -9,5 +9,6 @@ Mixed Messages is the first Codecademy portfolio project for the Fullstack Caree
 
 ## Prerequisites
 - Javascript
+- Node.js
 - Git and GitHub
 - Command Line
